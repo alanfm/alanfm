@@ -1,6 +1,6 @@
 # Olá, sou o Alan!
 
-Sou um **estudante de mestrado em Engenharia Elétrica e de Computação**, com forte foco em **Engenharia de Software**. Minha paixão reside em desenvolver soluções robustas e escaláveis, explorando as fronteiras entre hardware e software. Atualmente, estou aprofundando meus conhecimentos em **DevOps, desenvolvimento web full-stack, inteligência artificial aplicada a software e qualidade de software**.
+Sou **mestre em Engenharia Elétrica e de Computação**, com forte foco em **Engenharia de Software - Qualidade de Software**. Minha paixão reside em desenvolver soluções robustas e escaláveis, explorando as fronteiras entre hardware e software. Atualmente, estou aprofundando meus conhecimentos em **DevOps, desenvolvimento web full-stack, inteligência artificial aplicada a software e qualidade de software**.
 
 Tenho interesse em otimização de código, padrões de projeto, metodologias ágeis, segurança da informação dentre outras técnicas e tecnologias.
 
